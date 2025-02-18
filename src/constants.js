@@ -9,37 +9,40 @@ export const services = [
         icon: 'https://csgeeek.github.io/web.png',
     },
     {
-        title: "Photographer",
+        title: "Prompt Engineer",
         icon: 'https://csgeeek.github.io/web.png',
     },
 ];
 
-export const name = 'Nithin';
+export const name = 'Nikhil';
 
 export const experiences = [
     {
-        'company': 'Inncircles Technologies',
-        'role': 'Product Developer',
-        'duration': 'April 2023 - Present',
-        'logo': 'https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/e5gz1yggdy8sc1umna3e',
+        'company': 'Ohio university',
+        'role': 'IOT- Development, Programming, and Deployment/ Graduate Assistant',
+        'duration': 'April 2024 - December 2024',
+        'logo': 'https://www.ohio.edu/themes/custom/ohio_theme/ohio-logo.svg',
         'points': [
-            'Involved in dynamic contributions to web and mobile📱 development projects, actively influencing and improving project outcomes.',
-            'Developed multiple shared components to simplify tasks for fellow developers, boosting efficiency and teamwork.',
-            'Enhanced product performance through significant contributions to backend development, optimizing essential components for improved efficiency 📈.',
-            'Implemented data security for the company’s product to provide role-based access control ⚙️.'
+            <a href="https://github.com/OUSmartInfrastructure/LORAWAN" target="_blank"> LoRaWAN GitHub Repository</a>,
+            'Configured and managed LoRaWAN systems, integrating Grove devices, Raspberry Pi with RAK HAT, sensors, gateways, and GPS modules for efficient IoT communication',
+            'Used Python for system configuration and data processing and Arduino (C++) for microcontroller programming, including sensor integration, serial communication, and LoRa module configuration.',
+            'Conducted functional, performance, power, and stress testing, resolving hardware-software issues to enhance system reliability.',
+            'Optimized data transmission efficiency by 30%, improving overall system performance and reliability 📈.',
+            'Successfully deployed a robust LoRaWAN system capable of handling real-time communication and data exchange between sensors and servers.'
         ],
-        'url': 'https://inncircles.com/#home',
+        'url': 'https://www.ohio.edu/themes/custom/ohio_theme/ohio-logo.svg',
     },
     {
-        'company': 'AT & T',
-        'role': 'Technical Intern',
-        'duration': 'Jan 2023 - March 2023',
-        'logo': 'https://www.att.com/ecms/dam/att/consumer/global/logos/att_globe_500x500.jpg',
+        'company': 'Ohio university',
+        'role': 'Technical Support/ Graduate Assistant',
+        'duration': 'Aug 2023 - March 2024',
+        'logo': 'https://www.ohio.edu/themes/custom/ohio_theme/ohio-logo.svg',
         'points': [
-            'Gained experience with Git version control contributing to the development and maintenance of code repositories.',
-            'Worked on the application dashboard, making it more user-friendly and improving its overall functionality📱.'
+            'Provided technical troubleshooting and maintenance for lab computers, printers, and network systems, ensuring optimal functionality and minimal downtime.',
+            'Assisted students, faculty, and staff with resolving technical issues, delivering hands-on support and user training as needed.',
+            'Resolved tickets in the OIT department, addressing a range of technical issues and ensuring timely solutions.'
         ],
-        'url': 'https://www.att.com/',
+        'url': 'https://www.ohio.edu/themes/custom/ohio_theme/ohio-logo.svg',
     },
 ]
 
