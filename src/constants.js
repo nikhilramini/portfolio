@@ -46,7 +46,9 @@ export const experiences = [
     },
 ]
 
-
+console.log("EmailJS Service ID:", process.env.REACT_APP_EMAIL_JS_SERVICE_ID);
+console.log("EmailJS Template ID:", process.env.REACT_APP_EMAIL_JS_TEMPLATE_ID);
+console.log("EmailJS Public Key:", process.env.REACT_APP_EMAIL_JS_PUBLIC_KEY);
 
 export const EMAIL_JS_SERVICE_ID = process.env.REACT_APP_EMAIL_JS_SERVICE_ID;
 export const EMAIL_JS_TEMPLATE_ID = process.env.REACT_APP_EMAIL_JS_TEMPLATE_ID;
