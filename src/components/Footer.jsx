@@ -16,6 +16,9 @@ const Footer = () => {
 					<a href="ramini.nikhilsai@gmail.com" className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
 						<FiMail className='text-xl' />
 					</a>
+					<a href="ramini.nikhilsai@gmail.com" className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
+						<FiMail className='text-xl' />
+					</a>
 					<a href="https://x.com/Nikhil_ramini" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
 						<FaTwitter className='text-xl' />
 					</a>
