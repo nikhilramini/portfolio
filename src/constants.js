@@ -18,6 +18,19 @@ export const name = 'Nikhil';
 
 export const experiences = [
     {
+        'company': 'Alpha Recon',
+        'role': 'Data Science Intern',
+        'duration': 'Jan 2025 - Present',
+        'logo': 'https://alpharecon.com/wp-content/uploads/2023/06/logo-transparent.png',
+        'points': [
+            'Developed proprietary crime event classifiers in Python, eliminating reliance on costly external LLMs and optimizing in- house classification capabilities.',
+            'Researched, implemented, and iteratively improved machine learning models to categorize crime incidents, enhancing accuracy through calibration and fine-tuning.',
+            'Experimented with various classification techniques (logistic regression, random forests, etc) to determine the most effective methods for crime data classification.',
+            'Collaborated with data engineers to preprocess and analyze datasets, ensuring data quality and model effectiveness for real-world applications.'
+        ],
+        'url': 'https://alpharecon.com/',
+    },
+    {
         'company': 'Ohio university',
         'role': 'IOT- Development, Programming, and Deployment/ Graduate Assistant',
         'duration': 'April 2024 - December 2024',
