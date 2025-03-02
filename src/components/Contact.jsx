@@ -51,7 +51,7 @@ const Contact = () => {
 					from_name: username,
 					to_name: "Nikhil Sai Ramini",
 					reply_to: user_email,
-					to_email: "ramini.nikhilsai@gmail.com",
+					to_email: "32Nikhill@gmail.com",
 					message: user_message,
 				},
 				EMAIL_JS_PUBLIC_KEY
