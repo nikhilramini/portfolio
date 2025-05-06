@@ -19,14 +19,16 @@ export const name = 'Nikhil';
 export const experiences = [
     {
         'company': 'Alpha Recon',
-        'role': 'Data Science Intern',
+        'role': 'Data Scientist',
         'duration': 'Jan 2025 - Present',
         'logo': 'https://alpharecon.com/wp-content/uploads/2023/06/logo-transparent.png',
         'points': [
-            'Developed proprietary crime event classifiers in Python, eliminating reliance on costly external LLMs and optimizing in- house classification capabilities.',
-            'Researched, implemented, and iteratively improved machine learning models to categorize crime incidents, enhancing accuracy through calibration and fine-tuning.',
-            'Experimented with various classification techniques (logistic regression, random forests, etc) to determine the most effective methods for crime data classification.',
-            'Collaborated with data engineers to preprocess and analyze datasets, ensuring data quality and model effectiveness for real-world applications.'
+            'Developed and deployed scalable machine learning models to solve real-world business challenges with measurable impact.',
+            'Designed and maintained efficient data pipelines for automated data processing, model training, and inference.',
+            'Delivered comprehensive analytical reports and dashboards, enabling data-driven decision-making across teams.',
+            'Collaborated cross-functionally with engineers and product managers to align technical solutions with business needs.',
+            'Ensured data quality and integrity through regular audits and implemented corrective actions.',
+            'Produced detailed technical documentation and proof of concepts to support reproducibility and stakeholder alignment.'
         ],
         'url': 'https://alpharecon.com/',
     },
