@@ -19,16 +19,16 @@ export const name = 'Nikhil';
 export const experiences = [
     {
         'company': 'Alpha Recon',
-        'role': 'Data Scientist',
-        'duration': 'Jan 2025 - Present',
+        'role': 'Software Engineer',
+        'duration': 'Feb 2025 - Present',
         'logo': 'https://alpharecon.com/wp-content/uploads/2023/06/logo-transparent.png',
         'points': [
-            'Developed and deployed scalable machine learning models to solve real-world business challenges with measurable impact.',
-            'Designed and maintained efficient data pipelines for automated data processing, model training, and inference.',
-            'Delivered comprehensive analytical reports and dashboards, enabling data-driven decision-making across teams.',
+            'Built and deployed scalable machine learning pipelines (TF-IDF, SMOTE, Random Forest/XGBoost) to classify security incidents across U.S. states using geospatial, temporal, and textual features.',
+            'Integrated Retrieval-Augmented Generation (RAG) to automate and personalize state-specific security intelligence reports using templated summaries and LLMs.',
+            'Designed and maintained efficient data pipelines for automated data processing, model training, and inference, leveraging SQL databases where applicable.',
             'Collaborated cross-functionally with engineers and product managers to align technical solutions with business needs.',
             'Ensured data quality and integrity through regular audits and implemented corrective actions.',
-            'Produced detailed technical documentation and proof of concepts to support reproducibility and stakeholder alignment.'
+            'Authored clear, reproducible technical documentation and presented key findings to technical and non-technical stakeholders.'
         ],
         'url': 'https://alpharecon.com/',
     },
@@ -54,8 +54,12 @@ export const experiences = [
         'logo': 'https://www.ohio.edu/themes/custom/ohio_theme/ohio-logo.svg',
         'points': [
             'Provided technical troubleshooting and maintenance for lab computers, printers, and network systems, ensuring optimal functionality and minimal downtime.',
+            ' Conducted troubleshooting and tier-1 support across LAN/WAN devices using tools like Wireshark, while maintaining clear documentation for all changes.',
             'Assisted students, faculty, and staff with resolving technical issues, delivering hands-on support and user training as needed.',
-            'Resolved tickets in the OIT department, addressing a range of technical issues and ensuring timely solutions.'
+            'Resolved tickets in the OIT department, addressing a range of technical issues and ensuring timely solutions.',
+            'Configured and deployed new workstations, peripherals, and network setups, ensuring seamless integration and operation.',
+            'Documented technical issues, resolutions, and procedures to create a knowledge base and improve support efficiency',
+            'Streamlined lab operations by implementing system updates, monitoring resource usage, and ensuring compliance with institutional policies.'
         ],
         'url': 'https://www.ohio.edu/themes/custom/ohio_theme/ohio-logo.svg',
     },
