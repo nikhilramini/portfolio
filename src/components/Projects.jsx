@@ -1,7 +1,7 @@
 
 import React from "react";
-import vpn from '../assets/vpn.png'
-import copeople from '../assets/copeople.png'
+//import vpn from '../assets/vpn.png'
+//import copeople from '../assets/copeople.png'
 import ML from '../assets/ML.jpg'
 import VR from '../assets/VR.jpg'
 import SM from '../assets/SM.jpg'
