@@ -16,13 +16,13 @@ const Footer = () => {
 					<a href="mailto:ramini.nikhilsai@gmail.com" className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
    				 		<FiMail className='text-xl' />
 					</a>
-					<a href="https://x.com/Nikhil_ramini" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
+					<a href="https://x.com/Nikhil_ramini" target='_blank' rel="noreferrer" className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
 						<FaTwitter className='text-xl' />
 					</a>
-					<a href="https://www.linkedin.com/in/nikhil-sai-r-408152213" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
+					<a href="https://www.linkedin.com/in/nikhil-sai-r-408152213" target='_blank' rel="noreferrer" className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
 						<AiFillLinkedin className='text-xl' />
 					</a>
-					<a href="https://github.com/nikhilramini" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }} >
+					<a href="https://github.com/nikhilramini" target='_blank' rel="noreferrer" className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }} >
 						<FaGithub className='text-xl' />
 					
 					</a>
