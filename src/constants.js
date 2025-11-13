@@ -44,7 +44,7 @@ export const experiences = [
         'duration': 'April 2024 - December 2024',
         'logo': 'https://www.ohio.edu/themes/custom/ohio_theme/ohio-logo.svg',
         'points': [
-            <a href="https://github.com/OUSmartInfrastructure/LORAWAN" target="_blank"> LoRaWAN GitHub Repository</a>,
+            <a href="https://github.com/OUSmartInfrastructure/LORAWAN" target="_blank" rel="noreferrer"> LoRaWAN GitHub Repository</a>,
             'Designed, programmed, and deployed scalable LoRaWAN IoT systems using Docker and Kubernetes for containerized deployment and orchestration, improving communication efficiency and scalability.',
             'Integrated Grove devices, Raspberry Pi with RAK HAT, sensors, gateways, and GPS modules to enable real-time IoT communication and data collection.',
             'Developed and automated system configuration and data processing scripts in Python, and programmed microcontrollers in Arduino (C++) for sensor integration, serial communication, and LoRa module management.',
