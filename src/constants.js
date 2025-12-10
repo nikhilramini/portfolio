@@ -19,15 +19,16 @@ export const name = 'Nikhil';
 export const experiences = [
     {
         'company': 'Alpha Recon',
-        'role': 'Software Engineer',
+        'role': 'AI/ML Engineer',
         'duration': 'Feb 2025 - Present',
         'logo': 'https://alpharecon.com/wp-content/uploads/2023/06/logo-transparent.png',
         'points': [
-            'Built and deployed scalable machine learning pipelines (TF-IDF, SMOTE, Random Forest/XGBoost) to classify security incidents across U.S. states using geospatial, temporal, and textual features.',
-            'Integrated Retrieval-Augmented Generation (RAG) to automate and personalize state-specific security intelligence reports using templated summaries and LLMs.',
-            'Fine-tuned large language models (LLMs) and integrated them with LangChain to enable contextual retrieval, conversational reasoning, and automated report drafting.',
-            'Reduced manual report generation time for data analysts by 70% through automation and intelligent summarization workflows',
+            'Designed and developed generative and agentic AI systems, integrating autonomous reasoning, multi-step planning, and chatbot-style interaction to deliver intuitive, high-impact AI solutions.',
+            'Built end-to-end AI architectures using Python, LLMs, and frameworks like PyTorch and TensorFlow, enhancing user experience through efficient retrieval, contextual understanding, and natural conversational flows.',
+            'Integrated advanced capabilities such as summarization agents, automated intelligence extraction, and domain-specific AI assistants using RAG pipelines, function-calling, and external API orchestration.',
+            'Created automated model training and inference pipelines supporting ML systems (Random Forest, XGBoost) and improved accuracy, precision, recall, F1, and cross-validation metrics by 80% through pipeline optimization.',
             'Built AI-powered workflows in n8n to automate end-to-end intelligence collection using agents to scrape data from dynamic websites process structured and unstructured data, and feed it into analytical pipelines for automated reporting',
+            'Improved operational efficiency by reducing manual analyst workload by 70% through intelligent summarization, automated reasoning systems, and end-to-end AI-powered reporting pipelines.',
             'Developed autonomous AI agents capable of multi-step reasoning, integrating external APIs, and generating domain-specific intelligence outputs.',
             'Designed and maintained robust data pipelines for automated ingestion, model training, and inference, leveraging SQL databases, Docker, Kubernetes, and AWS for scalable deployment.',
             'Leveraged Power BI, Power Apps, and Power Automate to build interactive dashboards, automate workflows, and streamline reporting for analysts',
