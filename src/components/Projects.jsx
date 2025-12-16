@@ -81,7 +81,7 @@ export const project = [
         title:'Machine Learning Techniques for Cyber Attacks Detection',
         description:'This project leverages machine learning to detect cyber threats by identifying network anomalies. Using decision trees and neural networks, I trained models to classify suspicious activities, enhancing real-time cybersecurity monitoring and response.',
         image: ML,
-        git:'https://drive.google.com/file/d/1ICnsIGhjlXIWvw6k0nN7wn5XZSrlBGAS/view?usp=sharing',
+        git:'https://github.com/nikhilramini/cyber-attack-detection-ml',
         technologies:['Python', 'Scikit-learn', 'TensorFlow', 'Cybersecurity', 'Jupyter Notebook']
     },
     {
@@ -102,7 +102,7 @@ export const project = [
         title:'Stock Market Analysis and Prediction',
         description:'This project applies machine learning algorithms to analyze stock market trends and predict future prices. I utilized historical financial data, time series analysis, and deep learning models to provide insightful market predictions for informed decision-making.',
         image: SM,
-        git:"https://drive.google.com/file/d/1_auqvSK9OgpuPI2lVj13yNMkbqw3Fd8N/view?usp=drive_link",
+        git:"https://github.com/nikhilramini/stock-market-analysis-and-prediction",
         technologies:[ 'Python', 'Machine Learning', 'Time Series Analysis']
     },
     {
